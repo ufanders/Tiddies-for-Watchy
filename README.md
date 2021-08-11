@@ -1,16 +1,16 @@
 
-![Kitty Watchy face, featuring Ghost the cat](GhostKittyWatchFace.jpg?raw=true "Title")
-# Kitty for Watchy
+![Watchy face, featuring Wood Sitting on a Bed](GhostKittyWatchFace.jpg?raw=true "Wood Sitting on a Bed")
+# Tiddies for Watchy
 
-A watchface for [Watchy](https://watchy.sqfmi.com/) featuring my beloved cat, Ghost. 
+A watchface for [Watchy](https://watchy.sqfmi.com/) featuring NSFW images only you and your computer nerd friends from the mid-nineties will remember.
 
-Kitty for Watchy was written to be somewhat easy to customize: by editing just a few simple pieces of code you can use either a 12 or 24 hour clock, or swap out Ghost for your own image if desired (although this is not recommended because this picture of my cat is _very good_).
+This fork of [Kitty for Watchy](https://github.com/MSGoodman/Kitty-for-Watchy) was written to add support for multiple static watchfaces, with individually positioned time and date fields, and provide the option to cycle between the watchfaces on an interval of your choosing. 
 
 ## Customization
 
 ### 24-Hour Clock or 12-Hour Clock
 
-By default Kitty for Watchy displays a 12-hour clock with a meridiem indicator (AM or PM). However, if you prefer a 24-hour clock you can change the value of `MILITARY_TIME` in `Ghost.cpp` to `true` and reupload this to your Watchy.
+By default Tiddies for Watchy displays a 12-hour clock with a meridiem indicator (AM or PM). However, if you prefer a 24-hour clock you can change the value of `MILITARY_TIME` in `Ghost.cpp` to `true` and reupload this to your Watchy.
 
 ### Substituting your own image
 
